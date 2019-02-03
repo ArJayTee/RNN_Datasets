@@ -4,6 +4,9 @@ All numbers removed from texts.
 Each book is joined as one line. 
 UTF-8 encoding
 
+## Sci-Fi Text Corpus
+- 
+
 Books Included are: 
 
 ## Adams, Douglas

@@ -1,11 +1,11 @@
 # RNN_Datasets
-Various .txt files for Text Generation
-All numbers removed from texts. 
-Each book is joined as one line. 
-UTF-8 encoding
+- Various .txt files for Text Generation
+- All numbers removed from texts. 
+- Each book is joined as one line. 
+- UTF-8 encoding
 
 ## Sci-Fi Text Corpus
-- 
+- downloaded from Kaggle.com
 
 Books Included are: 
 
